@@ -15,7 +15,7 @@ import Payment from "./pages/Payment";
 import OrderProcessing from "./pages/OrderProcessing";
 import Orders from "./pages/Orders";
 import OrderPage from "./pages/OrderPage";
-import AdminDashboard from "./pages/Admindashboard";
+import AdminDashboard from "./pages/AdminDashboard";
 const App = () => {
   const { isAuth, loading } = userData();
   return (
